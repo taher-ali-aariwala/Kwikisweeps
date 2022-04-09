@@ -1,0 +1,105 @@
+[08-Nov-2021 07:43:29 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 453
+[08-Nov-2021 02:50:23 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 46
+[08-Nov-2021 02:50:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 18
+[08-Nov-2021 02:50:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 19
+[08-Nov-2021 02:50:27 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 46
+[08-Nov-2021 03:41:48 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 03:41:48 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 33
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 34
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 35
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 36
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 37
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 38
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 39
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 40
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 04:45:30 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 04:51:45 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 04:51:45 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 04:51:47 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 04:51:47 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 04:53:16 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 04:53:16 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 04:53:40 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 72
+[08-Nov-2021 04:53:40 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 316
+[08-Nov-2021 05:09:54 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 73
+[08-Nov-2021 05:09:54 America/New_York] PHP Notice:  Undefined variable: title in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 317
+[08-Nov-2021 05:14:05 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 73
+[08-Nov-2021 05:15:33 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 73
+[08-Nov-2021 07:08:01 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 73
+[09-Nov-2021 05:34:51 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 73
+[09-Nov-2021 05:40:20 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 74
+[09-Nov-2021 10:59:19 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/kwiki_upd.php on line 21
+[09-Nov-2021 11:02:52 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/kwiki_upd.php on line 21
+[09-Nov-2021 11:11:33 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/kwiki_upd.php on line 21
+[09-Nov-2021 11:39:22 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/kwiki_upd.php on line 21
+[10-Nov-2021 03:34:29 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 74
+[12-Nov-2021 06:33:56 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/kwiki_upd.php on line 22
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 36
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 37
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 38
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 39
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 40
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 41
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 42
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 43
+[12-Nov-2021 02:19:43 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 76
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 36
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 37
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 38
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 39
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 40
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 41
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 42
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 43
+[12-Nov-2021 02:20:50 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 76
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 36
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 37
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 38
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 39
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 40
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 41
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 42
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 43
+[12-Nov-2021 02:22:47 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 76
+[12-Nov-2021 02:26:15 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 76
+[12-Nov-2021 02:27:52 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 76
+[12-Nov-2021 02:33:21 America/New_York] PHP Notice:  Undefined variable: admin_url in /home/mboeqrle/tahir.dbtechserver.online/kwiki/admin/controller/winner.php on line 77
+[17-Nov-2021 10:10:20 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 22
+[17-Nov-2021 10:19:10 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 22
+[17-Nov-2021 10:19:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/ucntding/public_html/admin/controller/kwiki_upd.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 50
+[17-Nov-2021 10:23:16 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 22
+[17-Nov-2021 10:23:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/ucntding/public_html/admin/controller/kwiki_upd.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 50
+[17-Nov-2021 11:25:16 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 22
+[17-Nov-2021 11:26:01 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 22
+[22-Nov-2021 10:35:28 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 05:04:21 Europe/London] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:21 Europe/London] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:21 Europe/London] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:21 Europe/London] PHP Notice:  Undefined variable: con in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 10
+[23-Nov-2021 05:04:21 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 10
+[23-Nov-2021 05:04:28 Europe/London] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:28 Europe/London] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:28 Europe/London] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 3
+[23-Nov-2021 05:04:28 Europe/London] PHP Notice:  Undefined variable: con in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 10
+[23-Nov-2021 05:04:28 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ucntding/public_html/admin/controller/del_kwiki.php on line 10
+[23-Nov-2021 11:42:25 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 11:44:41 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 12:00:41 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 12:04:33 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 12:06:01 Europe/London] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 12:11:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_num_rows() in /home/ucntding/public_html/admin/controller/kwiki_upd.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 21
+[23-Nov-2021 12:13:19 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_num_rows() in /home/ucntding/public_html/admin/controller/kwiki_upd.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ucntding/public_html/admin/controller/kwiki_upd.php on line 20

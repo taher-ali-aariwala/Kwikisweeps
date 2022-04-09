@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700|Ubuntu:400,500,700&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700&display=swap');
+/* 
+Google Fonts
+------------- 
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Maven Pro', sans-serif;
+*/
+/* reset css start */
+
+html {
+  scroll-behavior: smooth;
+  --main-color: #d17c19;
+  --second-color: #233d63;
+  --heading-font: 'Ubuntu', sans-serif;
+  --menu-font: 'Maven Pro', sans-serif;
+  --heading-color: #000;
+  --para-font: 'Roboto', sans-serif;
+  --para-color: rgba(51, 55, 69, 0.8);
+}
+body {
+  font-size: 16px;
+  font-family: var(--para-font);
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+}
+h1,h2,h3,h4,h5,h6 {
+  padding: 0;
+  margin: 0;
+}
+h1,h1>a,
+h2,h2>a,
+h3,h3>a,
+h4,h4>a,
+h5,h5>a,
+h6,h6>a {
+  line-height: 1.25;
+  font-weight: 700;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  font-family: var(--heading-font);
+  color: var(--heading-color);
+  font-weight: 700;
+}
+h1 {
+  font-size: 60px;
+}
+h2, h2>a {
+  font-size: 52px;
+}
+h3, h3>a {
+  font-size: 24px;
+}
+h4, h4>a {
+  font-size: 22px;
+}
+h5, h5>a {
+  font-size: 20px;
+}
+h6, h6>a {
+  font-size: 18px;
+}
+a {
+  display: inline-block;
+  font-family: var(--menu-font);
+  color: var(--para-color);
+  font-weight: 700;
+}
+a,a:focus, a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+p, span, li {
+  margin: 0;
+  font-family: var(--para-font);
+  color: var(--para-color);
+  line-height: 1.7;
+  font-size: 16px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+ul, ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+button:focus,
+input:focus,
+textarea:focus {
+  outline: none;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+table {
+  width: 100%;
+}
+input, textarea {
+  width: 100%;
+}
+/* reset css end */
